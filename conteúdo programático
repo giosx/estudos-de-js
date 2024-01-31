@@ -2,3 +2,17 @@
 - arrays/manipulação                               type script
 - objetos/json
 - functions
+
+// const e let
+
+let lulu = 'amor'
+//aspas simples e dupla nn tem diferença
+
+let idade = '14'
+
+let altura = '1.49'
+
+let isCasado = true
+//true e false tem q ser minúsculo
+
+console.log(idade)
