@@ -1,3 +1,5 @@
+Aula 1
+
 - const/let/variável
 - arrays/manipulação                               type script
 - objetos/json
@@ -16,3 +18,15 @@ let isCasado = true
 //true e false tem q ser minúsculo
 
 console.log(idade)
+
+Aula 2
+
+const ListaDeEsportes = ['futebol', 'volei', 'basquete', 'surf', 'badminton', '32,true']
+
+console.log(ListaDeEsportes)
+
+ ListaDeEsportes.pop = ['Matteo', 'Ayla', 'Maya', 'Noah']
+
+console.log(ListaDeEsportes)
+
+Aula 3
